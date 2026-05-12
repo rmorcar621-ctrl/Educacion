@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260512115415A5CMXA</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605121154154QZW2U</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Unité 4. Toc, toc. C&apos;est moi, Père Noël!</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Las partes de la casa. Las costumbres en Navidad.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Raquel Moreno Carrasco </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Ir de lo más próximo a lo más lejano en el entorno del alumno es esencial con el fin de adaptar el proceso de enseñanza-aprendizaje a sus intereses y necesidades. Aprovecharemos esta unidad para aprender a describir nuestra casa, así como nuestras costumbres en Navidad relacionándolas con la decoración de la misma. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>fr</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non derived work - non commercial 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-nd/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778527628017</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>d0f1c609-2a19-4ab7-9d14-a0825981667a</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos personales y garantías de derechos digitales</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Protección de datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>d0f1c609-2a19-4ab7-9d14-a0825981667a</odePageId>
+      <odeBlockId>block-1778577145278-rvrnqp0ul</odeBlockId>
+      <blockName>Protección de datos personales y garantías de derechos digitales</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>d0f1c609-2a19-4ab7-9d14-a0825981667a</odePageId>
+          <odeBlockId>block-1778577145278-rvrnqp0ul</odeBlockId>
+          <odeIdeviceId>idevice-1778577145275-u7dy3cuwo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://educacionadistancia.juntadeandalucia.es/profesorado/pluginfile.php/2842472/assignsubmission_file/submission_files/5159217/Proteccio%CC%81n%20de%20Datos%20para%20Nin%CC%83os%20%288-12%29.pdf?forcedownload=1" title="">Protección de datos personales y garantías de derechos digitales</a><img src="{{context_path}}/content/resources/Protección de Datos para Niños (8-12).pdf" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778577145275-u7dy3cuwo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://educacionadistancia.juntadeandalucia.es/profesorado/pluginfile.php/2842472/assignsubmission_file/submission_files/5159217/Proteccio%CC%81n%20de%20Datos%20para%20Nin%CC%83os%20%288-12%29.pdf?forcedownload=1\" title=\"\">Protección de datos personales y garantías de derechos digitales</a><img src=\"{{context_path}}/content/resources/Protección de Datos para Niños (8-12).pdf\" alt=\"\" /></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778519358616-5emplwnu5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del producto final</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778519358616-5emplwnu5</odePageId>
+      <odeBlockId>block-1778520035658-yv4rw3wjh</odeBlockId>
+      <blockName>Descripción del producto final</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778519358616-5emplwnu5</odePageId>
+          <odeBlockId>block-1778520035658-yv4rw3wjh</odeBlockId>
+          <odeIdeviceId>idevice-1778520035656-bqftds6tn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Como producto final de esta Situación de Aprendizaje, vais a diseñar una casa 3D mediante Microsoft PowerPoint, creando una plantilla imprimible que posteriormente podréis montar en papel para construir la maqueta final. Una vez finalizados los diseños, podréis compartir vuestra presentación en SlideShare para que el resto de compañeros/as puedan visualizarlos, descargarlos e incluso imprimir las plantillas necesarias para montar la casa en tres dimensiones. </p>
+<p style="text-align: justify;">SlideShare se trata de una herramienta sencilla, visual y muy versátil dentro del contexto educativo. Permite compartir contenidos digitales de forma rápida y accesible, favoreciendo el aprendizaje colaborativo y el intercambio de producciones entre iguales. Además, facilita que podáis consultar los trabajos de vuestros/as compañeros/as desde distintos dispositivos y en diferentes momentos, promoviendo la observación, inspiración y reflexión sobre las propias creaciones.</p>
+<p style="text-align: justify;">Otro aspecto relevante es que la plataforma permite la difusión de materiales imprimibles sin necesidad de utilizar aplicaciones complejas, algo especialmente adecuado para vosotros/as al estar en Educación Primaria. Gracias a ello, podréis transformar un diseño digital en un objeto manipulativo y tangible, integrando así competencias digitales y habilidades creativas y espaciales. </p>
+<p style="text-align: justify;">De esta manera la actividad no solo potencia la creatividad y el trabajo cooperativo, sino también el uso responsable y funcional de herramientas digitales aplicadas a situaciones reales de aprendizaje. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778520035656-bqftds6tn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Como producto final de esta Situación de Aprendizaje, vais a diseñar una casa 3D mediante Microsoft PowerPoint, creando una plantilla imprimible que posteriormente podréis montar en papel para construir la maqueta final. Una vez finalizados los diseños, podréis compartir vuestra presentación en SlideShare para que el resto de compañeros/as puedan visualizarlos, descargarlos e incluso imprimir las plantillas necesarias para montar la casa en tres dimensiones. </p>\n<p style=\"text-align: justify;\">SlideShare se trata de una herramienta sencilla, visual y muy versátil dentro del contexto educativo. Permite compartir contenidos digitales de forma rápida y accesible, favoreciendo el aprendizaje colaborativo y el intercambio de producciones entre iguales. Además, facilita que podáis consultar los trabajos de vuestros/as compañeros/as desde distintos dispositivos y en diferentes momentos, promoviendo la observación, inspiración y reflexión sobre las propias creaciones.</p>\n<p style=\"text-align: justify;\">Otro aspecto relevante es que la plataforma permite la difusión de materiales imprimibles sin necesidad de utilizar aplicaciones complejas, algo especialmente adecuado para vosotros/as al estar en Educación Primaria. Gracias a ello, podréis transformar un diseño digital en un objeto manipulativo y tangible, integrando así competencias digitales y habilidades creativas y espaciales. </p>\n<p style=\"text-align: justify;\">De esta manera la actividad no solo potencia la creatividad y el trabajo cooperativo, sino también el uso responsable y funcional de herramientas digitales aplicadas a situaciones reales de aprendizaje. </p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778519369083-nlsbbrc3c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778519369083-nlsbbrc3c</odePageId>
+      <odeBlockId>block-1778519885159-ioo2g8mw1</odeBlockId>
+      <blockName>Alumnado</blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778519369083-nlsbbrc3c</odePageId>
+          <odeBlockId>block-1778519885159-ioo2g8mw1</odeBlockId>
+          <odeIdeviceId>idevice-1778519885157-8jt3fx1fq</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/rmorcar621/unite-4-toc-toc-c-est-moi-pere-noel-xzsda0besflbqttn" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">Unable to display an iframe loaded over HTTP on a website that uses HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778519369083-nlsbbrc3c</odePageId>
+      <odeBlockId>block-1778523472857-zb5vdo0y5</odeBlockId>
+      <blockName>Docentes</blockName>
+      <iconName>share</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778519369083-nlsbbrc3c</odePageId>
+          <odeBlockId>block-1778523472857-zb5vdo0y5</odeBlockId>
+          <odeIdeviceId>idevice-1778523472855-9n72o38bd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://www.symbaloo.com/shared/AAAAAwfQbE8AA41_W3S4UQ==" title="">https://www.symbaloo.com/shared/AAAAAwfQbE8AA41_W3S4UQ==</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778523472855-9n72o38bd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.symbaloo.com/shared/AAAAAwfQbE8AA41_W3S4UQ==\" title=\"\">https://www.symbaloo.com/shared/AAAAAwfQbE8AA41_W3S4UQ==</a></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778519395085-izr49lu17</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Organización de las actividades y tareas del proyecto</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Organización de las actividades y tareas del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Organización de las actividades y tareas del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778519395085-izr49lu17</odePageId>
+      <odeBlockId>block-1778519845592-0guoa0yiu</odeBlockId>
+      <blockName>Línea temporal de organización</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778519395085-izr49lu17</odePageId>
+          <odeBlockId>block-1778519845592-0guoa0yiu</odeBlockId>
+          <odeIdeviceId>idevice-1778519845589-enz3c91g2</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://www.mindomo.com/mindmap/6325d67db5104dc09461f616cca42dd2" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">Unable to display an iframe loaded over HTTP on a website that uses HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778519434407-ad7y5yqvj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778519434407-ad7y5yqvj</odePageId>
+      <odeBlockId>block-1778519817007-dl91y9csv</odeBlockId>
+      <blockName>Criterios de evaluación de las diferentes tareas</blockName>
+      <iconName>english</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778519434407-ad7y5yqvj</odePageId>
+          <odeBlockId>block-1778519817007-dl91y9csv</odeBlockId>
+          <odeIdeviceId>idevice-1778519817005-jhsc4wkao</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://docs.google.com/document/d/1_p_ndyqE1H2ErqUuMu6NZbiV7MhtWtBNqGIR3JlfmqE/edit?tab=t.0#heading=h.v3kpl8zcktok" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">Unable to display an iframe loaded over HTTP on a website that uses HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778519445047-jrph3977n</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778519445047-jrph3977n</odePageId>
+      <odeBlockId>block-1778577635262-5i2zjn6fd</odeBlockId>
+      <blockName>Rúbrica de evaluación expresión escrita</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778519445047-jrph3977n</odePageId>
+          <odeBlockId>block-1778577635262-5i2zjn6fd</odeBlockId>
+          <odeIdeviceId>idevice-1778577519788-h4gzedgzp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://educacionadistancia.juntadeandalucia.es/profesorado/pluginfile.php/2842509/assignsubmission_file/submission_files/5119487/Ru%CC%81brica%20de%20evaluacion%20expresio%CC%81n%20escrita.pdf?forcedownload=1" title="">Rúbrica de evaluación expresión escrita</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778577519788-h4gzedgzp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://educacionadistancia.juntadeandalucia.es/profesorado/pluginfile.php/2842509/assignsubmission_file/submission_files/5119487/Ru%CC%81brica%20de%20evaluacion%20expresio%CC%81n%20escrita.pdf?forcedownload=1\" title=\"\">Rúbrica de evaluación expresión escrita</a></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778519445047-jrph3977n</odePageId>
+      <odeBlockId>block-1778577470895-0rlni8dmz</odeBlockId>
+      <blockName>Diana de autoevaluación trabajo cooperativo</blockName>
+      <iconName>objetives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778519445047-jrph3977n</odePageId>
+          <odeBlockId>block-1778577470895-0rlni8dmz</odeBlockId>
+          <odeIdeviceId>idevice-1778577470893-d6nd6fyyw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://educacionadistancia.juntadeandalucia.es/profesorado/pluginfile.php/2842509/assignsubmission_file/submission_files/5119487/Diana%20de%20autoevaluacio%CC%81n%20trabajo%20cooperativo.pdf?forcedownload=1" title="">Diana de autoevaluación trabajo cooperativo</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778577470893-d6nd6fyyw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://educacionadistancia.juntadeandalucia.es/profesorado/pluginfile.php/2842509/assignsubmission_file/submission_files/5119487/Diana%20de%20autoevaluacio%CC%81n%20trabajo%20cooperativo.pdf?forcedownload=1\" title=\"\">Diana de autoevaluación trabajo cooperativo</a></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778519575622-v5tjxhvwi</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Atención a la diversidad / Principios DUA</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atención a la diversidad / Principios DUA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778519575622-v5tjxhvwi</odePageId>
+      <odeBlockId>block-1778519635383-dhchszgo9</odeBlockId>
+      <blockName>Medidas generales</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778519575622-v5tjxhvwi</odePageId>
+          <odeBlockId>block-1778519635383-dhchszgo9</odeBlockId>
+          <odeIdeviceId>idevice-1778519635379-90dtwyt3b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>- Uso de pictogramas;</p>
+<p>- Rol específico dentro del grupo;</p>
+<p>- Alumno tutor;</p>
+<p>- Actividades motivadoras;</p>
+<p>- Juegos en grupo;</p>
+<p>- Uso del diccionario;</p>
+<p>- Agrupamientos flexibles;</p>
+<p>- Consignas de la tarea;</p>
+<p>- Colaboración con la familia;</p>
+<p>- Situación cerca de la pizarra;</p>
+<p>- Situación cerca del docente;</p>
+<p>- Utilización de flashcards;</p>
+<p>- Trabajo cooperativo;</p>
+<p>- Materiales adaptados;</p>
+<p>- Diferentes formas de acceso al contenido.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778519635379-90dtwyt3b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>- Uso de pictogramas;</p>\n<p>- Rol específico dentro del grupo;</p>\n<p>- Alumno tutor;</p>\n<p>- Actividades motivadoras;</p>\n<p>- Juegos en grupo;</p>\n<p>- Uso del diccionario;</p>\n<p>- Agrupamientos flexibles;</p>\n<p>- Consignas de la tarea;</p>\n<p>- Colaboración con la familia;</p>\n<p>- Situación cerca de la pizarra;</p>\n<p>- Situación cerca del docente;</p>\n<p>- Utilización de flashcards;</p>\n<p>- Trabajo cooperativo;</p>\n<p>- Materiales adaptados;</p>\n<p>- Diferentes formas de acceso al contenido.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778519565602-o2l2otx5e</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778519565602-o2l2otx5e</odePageId>
+      <odeBlockId>block-1778519698790-jihn5xqlc</odeBlockId>
+      <blockName>Guía didáctica</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778519565602-o2l2otx5e</odePageId>
+          <odeBlockId>block-1778519698790-jihn5xqlc</odeBlockId>
+          <odeIdeviceId>idevice-1778519698788-xa85lornz</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://docs.google.com/document/d/1_p_ndyqE1H2ErqUuMu6NZbiV7MhtWtBNqGIR3JlfmqE/edit?tab=t.0#heading=h.v3kpl8zcktok" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">Unable to display an iframe loaded over HTTP on a website that uses HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778519579491-ltaugfgyi</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778519579491-ltaugfgyi</odePageId>
+      <odeBlockId>block-1778519590774-raift77rg</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778519579491-ltaugfgyi</odePageId>
+          <odeBlockId>block-1778519590774-raift77rg</odeBlockId>
+          <odeIdeviceId>idevice-1778519590771-rex7xcd5p</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>General information about this educational resource</caption>
+<tbody>
+<tr>
+<th>Title</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Unité 4. Toc, toc. C'est moi, Père Noël!</span></td>
+</tr>
+<tr>
+<th>Description</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Ir de lo más próximo a lo más lejano en el entorno del alumno es esencial con el fin de adaptar el proceso de enseñanza-aprendizaje a sus intereses y necesidades. Aprovecharemos esta unidad para aprender a describir nuestra casa, así como nuestras costumbres en Navidad relacionándolas con la decoración de la misma. </span></td>
+</tr>
+<tr>
+<th>Authorship</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Raquel Moreno Carrasco </span></td>
+</tr>
+<tr>
+<th>License</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">Proprietary license</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">This content was created with <a href="https://exelearning.net/">eXeLearning</a>, your free and open source editor to create educational resources.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Download .elpx file</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
